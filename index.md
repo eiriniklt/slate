@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Ον/μο Φοιτήτριας: Κολτσανίδου Ειρήνη**
+
+**ΑΜ: Π2013033**
 
 [Link to another page](another-page).
 
