@@ -48,13 +48,12 @@ layout: default
 
 ## ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ
 
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario1.PNG)
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario2.PNG)
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario3.PNG)
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario4.PNG)
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario5.PNG)
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario6.PNG)
+![](https://raw.githubusercontent.com/eiriniklt/Super-Mario/master/assets/super_mario7.PNG)
+
 ## ΣΥΜΠΕΡΑΣΜΑΤΑ
-
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
