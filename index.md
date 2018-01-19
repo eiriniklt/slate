@@ -6,13 +6,11 @@ layout: default
 
 ### ΑΜ: Π2013033
 
-### [Τελική Αναφορά Github Pages](https://eiriniklt.github.io/slate/)
-
 ## Τίτλος: Super Mario
 
-### [Link παιχνιδιού](https://eiriniklt.github.io/Super-Mario/)
+[**Link παιχνιδιού**](https://eiriniklt.github.io/Super-Mario/)
 
-### [Link προσωπικού αποθετήριου](https://github.com/eiriniklt/Super-Mario)
+[**Link προσωπικού αποθετήριου**](https://github.com/eiriniklt/Super-Mario)
 
 ## ΕΙΣΑΓΩΓΗ
 
