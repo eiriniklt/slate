@@ -10,7 +10,7 @@ layout: default
 
 ### [Link παιχνιδιού](https://eiriniklt.github.io/Super-Mario/)
 
-[**Link προσωπικού αποθετήριου**](https://github.com/eiriniklt/Super-Mario)
+### [Link προσωπικού αποθετήριου](https://github.com/eiriniklt/Super-Mario)
 
 ## ΕΙΣΑΓΩΓΗ
 
